@@ -30,8 +30,8 @@ interests:
 
 education:
   courses:
-    - course: MS in computer science and Technology
-      institution: Massachusetts Institute of Technology
+    - course: MEng in computer science and Technology
+      institution: Zhejiang University
       year: 2022-now
     - course: BSc in computer science and Technology
       institution: Zhejiang University
@@ -64,7 +64,7 @@ social:
 # email: ''
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Options: Advisors, PhD Students, Master Students, Alumni
 user_groups:
   - Master Students
 ---
