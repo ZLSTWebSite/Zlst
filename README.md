@@ -11,5 +11,5 @@ Using [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-resea
 - [ ] 确认 News 相关内容
 - [ ] 确认 Event 相关内容
 - [ ] 修改 Contact 信息
-- [ ] 切换字体
+- [x] 切换字体
 - [ ] 自动生成一个图标
