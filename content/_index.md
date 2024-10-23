@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ZLST Lab
       image:
-        filename: welcome.jpg
+        filename: background2.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ZLST** lab ~~has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016~~ waiting for more content...
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: background2.jpg
           filters:
             brightness: 1
           parallax: false
