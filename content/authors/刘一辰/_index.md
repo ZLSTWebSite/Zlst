@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-    - course: MEng in computer science and Technology
+    - course: MEng in Computer Science and Technology
       institution: Zhejiang University
       year: 2022-now
-    - course: BSc in computer science and Technology
+    - course: BSc in Computer Science and Technology
       institution: Zhejiang University
       year: 2018-2022
 
