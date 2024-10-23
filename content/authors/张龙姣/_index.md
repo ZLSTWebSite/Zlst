@@ -67,7 +67,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 # Options: Advisors, PhD Students, Master Students, Alumni
 user_groups:
-  - Doctor Students
+  - PhD Students
 ---
 
 Longjiao Zhang is currently a PhD student in ZLST, where she is supervised by Prof.Xinyu Wang and Prof.Can Wang.
