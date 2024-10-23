@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year Ph.D. student, and my supervisors are Profs. Chen Chun, Profs. Wang Can, and Profs. Chen Jiawei.
+bio: I am a third-year Ph.D. student, and my supervisors are Profs. Chun Chen, Profs. Can Wang, and Profs. Jiawei Chen.
 
 interests:
   - Recommendation System
@@ -70,4 +70,4 @@ user_groups:
   - PhD Students
 ---
 
-Yichen Liu is currently a Master student in ZLST, where he is supervised by Prof.Can Wang.
+I am a third-year Ph.D. student, and my supervisors are Profs. Chun Chen, Profs. Can Wang, and Profs. Jiawei Chen.
