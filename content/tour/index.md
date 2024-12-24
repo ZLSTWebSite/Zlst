@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: ZLST Lab
+        content: 'Join us as we embark on this exciting journey'
         align: right
         background:
           image:
