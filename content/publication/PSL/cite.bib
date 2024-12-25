@@ -1,0 +1,15 @@
+@inproceedings{yang2024psl,
+  title       = {PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation},
+  author      = {Weiqin Yang and Jiawei Chen* and Xin Xin and Sheng Zhou and Binbin Hu and Yan Feng and Chun Chen and Can Wang},
+  booktitle   = {Advances in Neural Information Processing Systems},
+  volume      = {37},
+  year        = {2025},
+  doi         = {10.48550/arXiv.2411.00163},
+  url         = {https://arxiv.org/abs/2411.00163},
+  code        = {https://github.com/Tiny-Snow/IR-Benchmark},
+  pdf         = {https://arxiv.org/pdf/2411.00163},
+  abstract    = {Softmax Loss (SL) is widely applied in recommender systems (RS) and has demonstrated effectiveness. This work analyzes SL from a pairwise perspective, revealing two significant limitations: 1) the relationship between SL and conventional ranking metrics like DCG is not sufficiently tight; 2) SL is highly sensitive to false negative instances. Our analysis indicates that these limitations are primarily due to the use of the exponential function. To address these issues, this work extends SL to a new family of loss functions, termed Pairwise Softmax Loss (PSL), which replaces the exponential function in SL with other appropriate activation functions. While the revision is minimal, we highlight three merits of PSL: 1) it serves as a tighter surrogate for DCG with suitable activation functions; 2) it better balances data contributions; and 3) it acts as a specific BPR loss enhanced by Distributionally Robust Optimization (DRO). We further validate the effectiveness and robustness of PSL through empirical experiments. The code is available at https://github.com/Tiny-Snow/IR-Benchmark.},
+  slides      = {https://nips.cc/media/neurips-2024/Slides/95290_vYfmp80.pdf},
+  poster      = {https://nips.cc/media/PosterPDFs/NeurIPS%202024/95290.png},
+  series      = {NeurIPS '24}
+}
