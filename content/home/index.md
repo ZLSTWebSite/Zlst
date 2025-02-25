@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Home
 date: 2022-10-24
 
 type: landing
