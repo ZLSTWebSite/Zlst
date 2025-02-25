@@ -37,7 +37,7 @@ education:
       institution: Peking University
       year: 2019-2021
     - course: BSc in Mathematics
-      institution: Zhejiang University
+      institution: China University of Mining and Technology (Beijing)
       year: 2017-2021
 
 # Social/Academic Networking
@@ -49,11 +49,11 @@ social:
     icon_pack: fas
     link: 'raiden@zju.edu.cn'
   - icon: twitter
-     icon_pack: fab
-     link: https://x.com/Tongtian_Zhu
+    icon_pack: fab
+    link: https://x.com/Tongtian_Zhu
   - icon: google-scholar
-     icon_pack: ai
-     link: https://scholar.google.com/citations?user=QvBDUsIAAAAJ&hl=en
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=QvBDUsIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Raiden-Zhu
