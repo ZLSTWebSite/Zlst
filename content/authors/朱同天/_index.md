@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'raiden@zju.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/Tongtian_Zhu
+#  - icon: twitter
+#     icon_pack: fab
+#     link: https://x.com/Tongtian_Zhu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=QvBDUsIAAAAJ&hl=en
