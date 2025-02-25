@@ -19,7 +19,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-1-23T00:00:00Z'
+date: '2024-01-23T00:00:00Z'
 doi: '10.1145/3589334.3645598'
 
 # Schedule page publish date (NOT publication's date).
