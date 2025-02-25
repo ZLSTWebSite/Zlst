@@ -70,4 +70,4 @@ user_groups:
   - PhD Students
 ---
 
-I am a third-year Ph.D. student, and my supervisors are Profs. Chun Chen, Profs. Can Wang, and Profs. Jiawei Chen.
+I am a third-year Ph.D. student, and my supervisors are Prof. Chun Chen, Prof. Can Wang, and Prof. Jiawei Chen.

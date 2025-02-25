@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2411.00163'
+url_pdf: 'https://arxiv.org/abs/2402.12994'
 url_code: 'https://github.com/WANGBohaO-jpg/DR-GNN'
 url_dataset: 'https://github.com/WANGBohaO-jpg/DR-GNN'
 url_poster: ''
