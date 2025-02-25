@@ -6,6 +6,9 @@ title: 'Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 刘一辰
+  - 陈佳伟
+  - 冯雁
+  - 王灿
 
 # Author notes (optional)
 # author_notes:

@@ -6,6 +6,10 @@ title: 'PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 杨伟钦
+  - 陈佳伟
+  - 冯雁
+  - 陈纯
+  - 王灿
 
 # Author notes (optional)
 # author_notes:
