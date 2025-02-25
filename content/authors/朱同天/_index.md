@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'raiden@zju.edu.cn'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 # Options: Advisors, PhD Students, Master Students, Alumni
