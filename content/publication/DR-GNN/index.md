@@ -5,14 +5,14 @@ title: 'Distributionally Robust Graph-based Recommendation System'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 王博浩
-  - 陈佳伟
-  - 李昌栋
-  - 周晟
-  - 史麒豪
-  - 冯雁
-  - 陈纯
-  - 王灿
+  - BohaoWang
+  - JiaweiChen
+  - ChangdongLi
+  - ShengZhou
+  - QihaoShi
+  - YanFeng
+  - ChunChen
+  - CanWang
 
 # Author notes (optional)
 # author_notes:

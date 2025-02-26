@@ -5,11 +5,11 @@ title: 'PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 杨伟钦
-  - 陈佳伟
-  - 冯雁
-  - 陈纯
-  - 王灿
+  - WeiqinYang
+  - JiaweiChen
+  - YanFeng
+  - ChunChen
+  - CanWang
 
 # Author notes (optional)
 # author_notes:
