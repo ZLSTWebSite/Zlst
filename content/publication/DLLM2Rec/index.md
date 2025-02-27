@@ -5,14 +5,14 @@ title: 'Distillation Matters: Empowering Sequential Recommenders to Match the Pe
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 崔昱
-  - 刘丰
-  - 王蓬勃
-  - 王博浩
-  - 汤恒
-  - 万艺
-  - 王俊
-  - 陈佳伟
+  - YuCui
+  - FengLiu
+  - PengboWang
+  - BohaoWang
+  - HengTang
+  - YiWan
+  - JunWang
+  - JiaweiChen
 
 # Author notes (optional)
 # author_notes:

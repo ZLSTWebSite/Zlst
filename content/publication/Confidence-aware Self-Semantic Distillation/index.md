@@ -5,10 +5,10 @@ title: 'Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 刘一辰
-  - 陈佳伟
-  - 冯雁
-  - 王灿
+  - YichenLiu
+  - JiaweiChen
+  - YanFeng
+  - CanWang
 
 # Author notes (optional)
 # author_notes:

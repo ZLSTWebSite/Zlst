@@ -5,10 +5,10 @@ title: 'Fast Ode-based Sampling for Diffusion Models in Around 5 Steps'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 周振宇
-  - 陈德仿
-  - 王灿
-  - 陈纯
+  - ZhenyuZhou
+  - DefangChen
+  - CanWang
+  - ChunChen
 
 # Author notes (optional)
 # author_notes:
