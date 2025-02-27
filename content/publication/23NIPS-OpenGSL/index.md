@@ -1,11 +1,11 @@
 ---
-title: 'Uncertainty-Aware Graph Structure Learning'
+title: 'OpenGSL: A Comprehensive Benchmark for Graph Structure Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - ShenHan
+  - ZhiyaoZhou
   - JiaweiChen
   - YanFeng
   - CanWang
@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-01-21T00:00:00Z'
-doi: '10.1145/3696410.3714927'
+date: '2023-12-10T00:00:00Z'
+# doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-01T00:00:00Z'
+publishDate: '2023-12-10T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,15 +27,15 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM The Web Conference*
-publication_short: In *WWW*
+publication: In *Advances in Neural Information Processing Systems*
+publication_short: In *NeurIPS*
 
-abstract: Graph Neural Networks (GNNs) have become a prominent approach for learning from graph-structured data. However, their effectiveness can be significantly compromised when the graph structure is suboptimal. To address this issue, Graph Structure Learning (GSL) has emerged as a promising technique that refines node connections adaptively. Nevertheless, we identify two key limitations in existing GSL methods. 1) Most methods primarily focus on node similarity to construct relationships, while overlooking the quality of node information. Blindly connecting low-quality nodes and aggregating their ambiguous information can degrade the performance of other nodes. 2) The constructed graph structures are often constrained to be symmetric, which may limit the model's flexibility and effectiveness. To overcome these limitations, we propose an Uncertainty-aware Graph Structure Learning (UnGSL) strategy. UnGSL estimates the uncertainty of node information and utilizes it to adjust the strength of directional connections, where the influence of nodes with high uncertainty is adaptively reduced. Importantly, UnGSL serves as a plug-in module that can be seamlessly integrated into existing GSL methods with minimal additional computational cost. In our experiments, we implement UnGSL into six representative GSL methods, demonstrating consistent performance improvements.
+abstract: Graph Neural Networks (GNNs) have emerged as the de facto standard for representation learning on graphs, owing to their ability to effectively integrate graph topology and node attributes. However, the inherent suboptimal nature of node connections, resulting from the complex and contingent formation process of graphs, presents significant challenges in modeling them effectively. To tackle this issue, Graph Structure Learning (GSL), a family of data-centric learning approaches, has garnered substantial attention in recent years. The core concept behind GSL is to jointly optimize the graph structure and the corresponding GNN models. Despite the proposal of numerous GSL methods, the progress in this field remains unclear due to inconsistent experimental protocols, including variations in datasets, data processing techniques, and splitting strategies. In this paper, we introduce OpenGSL, the first comprehensive benchmark for GSL, aimed at addressing this gap. OpenGSL enables a fair comparison among state-of-the-art GSL methods by evaluating them across various popular datasets using uniform data processing and splitting strategies. Through extensive experiments, we observe that existing GSL methods do not consistently outperform vanilla GNN counterparts. We also find that there is no significant correlation between the homophily of the learned structure and task performance, challenging the common belief. Moreover, we observe that the learned graph structure demonstrates a strong generalization ability across different GNN models, despite the high computational and space consumption. We hope that our open-sourced library will facilitate rapid and equitable evaluation and inspire further innovative research in this field.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Graph Data Mining]
+tags: [Graph Data Mining, Graph Structure Learning, Benchmark]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2502.12618'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2306.10280'
+url_code: 'https://github.com/OpenGSL/OpenGSL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://neurips.cc/virtual/2023/poster/73412'
 url_project: ''
-url_slides: ''
+url_slides: 'https://neurips.cc/virtual/2023/poster/73412'
 url_source: ''
-url_video: ''
+url_video: 'https://neurips.cc/virtual/2023/poster/73412'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
