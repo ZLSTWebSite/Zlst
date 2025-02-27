@@ -5,10 +5,10 @@ title: 'OpenGSL: A Comprehensive Benchmark for Graph Structure Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 周之遥
-  - 陈佳伟
-  - 冯雁
-  - 王灿
+  - ZhiyaoZhou
+  - JiaweiChen
+  - YanFeng
+  - CanWang
 
 # Author notes (optional)
 # author_notes:
