@@ -39,7 +39,7 @@ sections:
       title:
       subtitle: ''
       text: |
-        # 推荐系统方向简介
+        # Recommendation systems
         Recommendation systems (RS) are technologies that utilize user behavior and content characteristics to predict user preferences and provide personalized recommendations, which are widely used in fields such as e-commerce and social media.
 
         We are committed to researching trustworthy RS, the theory of RS, and large language models (LLMs) for RS. Our work has been published in numerous top conferences and journals, including NIPS, AAAI, KDD, WWW, SIGIR, WSDM, CIKM, Recsys, and TOIS.
@@ -59,7 +59,7 @@ sections:
         ## Large Language Models for Recommendation System
         - Distillation matters: empowering sequential recommenders to match the performance of large language models (Recsys'2024 Oral) -->
 
-        # 亮点工作
+        # Highlights
         ## Trustworthy Recommendation System
         - [ReSN](https://arxiv.org/abs/2404.12008) (WSDM'2025 Best Paper!)
         - [DORL](https://arxiv.org/abs/2307.04571) (SIGIR'2023 Best Paper Nomination!)
