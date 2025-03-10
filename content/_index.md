@@ -34,6 +34,49 @@ sections:
   #   design:
   #     view: card
   #     columns: '1'
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: |
+        # 推荐系统方向简介
+        Recommendation systems (RS) are technologies that utilize user behavior and content characteristics to predict user preferences and provide personalized recommendations, which are widely used in fields such as e-commerce and social media.
+
+        We are committed to researching trustworthy RS, the theory of RS, and large language models (LLMs) for RS. Our work has been published in numerous top conferences and journals, including NIPS, AAAI, KDD, WWW, SIGIR, WSDM, CIKM, Recsys, and TOIS.
+
+        <!-- # 亮点工作
+        ## Trustworthy Recommendation System
+        - How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective (WSDM'2025 Best Paper!)
+        - Alleviating matthew effect of offline reinforcement learning in interactive recommendation (SIGIR'2023 Best Paper Nomination!)
+        - Bias and debias in recommender system: A survey and future directions (TOIS'2023)
+        - Distributionally Robust Graph-based Recommendation System (WWW'2024 Oral)
+        - CDR: Conservative Doubly Robust Learning for Debiased Recommendation (CIKM'2023)
+
+        ## The Theory of Recommendation System
+        - Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution (AAAI'2025)
+        - PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation (NIPS'2024)
+
+        ## Large Language Models for Recommendation System
+        - Distillation matters: empowering sequential recommenders to match the performance of large language models (Recsys'2024 Oral) -->
+
+        # 亮点工作
+        ## Trustworthy Recommendation System
+        - [ReSN](https://arxiv.org/abs/2404.12008) (WSDM'2025 Best Paper!)
+        - [DORL](https://arxiv.org/abs/2307.04571) (SIGIR'2023 Best Paper Nomination!)
+        - [Survey on Bias and Debias]() (TOIS'2023 )
+        - [DR-GNN](https://arxiv.org/abs/2402.12994) (WWW'2024 Oral)
+
+        ## The Theory of Recommendation System
+        - [DrRL]() (AAAI'2025)
+        - [PSL](https://arxiv.org/abs/2411.00163) (NIPS'2024)
+
+        ## Large Language Models for Recommendation System
+        - [DLLM2Rec](https://arxiv.org/abs/2405.00338) (Recsys'2024 Oral)
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   
   - block: markdown
     content:
