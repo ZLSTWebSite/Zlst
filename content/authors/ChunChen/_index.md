@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: Prof. Academician of the Chinese Academy of Engineering
 
+weight: 1
+
 
 # Organizations/Affiliations
 organizations:

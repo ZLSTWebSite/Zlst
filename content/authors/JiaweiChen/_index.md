@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: Research Fellow
 
+weight: 4
+
 # Organizations/Affiliations
 organizations:
   - name: Zhejiang University

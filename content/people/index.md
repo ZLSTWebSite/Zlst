@@ -15,7 +15,7 @@ sections:
           - PhD Students
           - Master Students
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.weight  # 使用单个排序字段
       sort_ascending: true
     design:
       show_interests: false
