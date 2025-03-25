@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assoc. Prof. 
+role: Assoc. Professor
 
 weight: 2
 

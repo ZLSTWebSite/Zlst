@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Prof. Academician of the Chinese Academy of Engineering
+role: Professor, Academician of the Chinese Academy of Engineering
 
 weight: 1
 

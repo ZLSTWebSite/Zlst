@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Prof.
+role: Professor
 
 weight: 3
 
