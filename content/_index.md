@@ -42,7 +42,7 @@ sections:
         # Recommendation systems
         Recommendation systems (RS) are technologies that utilize user behavior and content characteristics to predict user preferences and provide personalized recommendations, which are widely used in fields such as e-commerce and social media.
 
-        We are committed to researching trustworthy RS, the theory of RS, and large language models (LLMs) for RS. Our work has been published in numerous top conferences and journals, including NIPS, AAAI, KDD, WWW, SIGIR, WSDM, CIKM, Recsys, and TOIS.
+        We are committed to researching trustworthy RS, the theory of RS, and large language models (LLMs) for RS. Our work has been published in numerous top conferences and journals, including NeurIPS, AAAI, KDD, WWW, SIGIR, WSDM, CIKM, Recsys, and TOIS.
 
         <!-- # 亮点工作
         ## Trustworthy Recommendation System
@@ -54,7 +54,7 @@ sections:
 
         ## The Theory of Recommendation System
         - Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution (AAAI'2025)
-        - PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation (NIPS'2024)
+        - PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation (NeurIPS'2024)
 
         ## Large Language Models for Recommendation System
         - Distillation matters: empowering sequential recommenders to match the performance of large language models (Recsys'2024 Oral) -->
@@ -63,15 +63,38 @@ sections:
         ## Trustworthy Recommendation System
         - [ReSN](https://arxiv.org/abs/2404.12008) (WSDM'2025 Best Paper!)
         - [DORL](https://arxiv.org/abs/2307.04571) (SIGIR'2023 Best Paper Nomination!)
-        - [Survey on Bias and Debias]() (TOIS'2023 )
+        - [Survey on Bias and Debias]() (TOIS'2023)
         - [DR-GNN](https://arxiv.org/abs/2402.12994) (WWW'2024 Oral)
 
         ## The Theory of Recommendation System
         - [DrRL]() (AAAI'2025)
-        - [PSL](https://arxiv.org/abs/2411.00163) (NIPS'2024)
+        - [PSL](https://arxiv.org/abs/2411.00163) (NeurIPS'2024)
 
         ## Large Language Models for Recommendation System
         - [DLLM2Rec](https://arxiv.org/abs/2405.00338) (Recsys'2024 Oral)
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: |
+        # Diffusion Models
+        Diffusion Models are a class of generative models that have gained significant attention in recent years, particularly in the fields of computer vision and natural language processing. By establishing a mapping from noise distribution to data distribution, Diffusion Models can generate high-quality data such as images, videos, audios and text.
+
+        We are devoted to provide a deeper understanding of the generaion dynamics of Diffusion Models and the acceleration of their sampling processes. Our works have been published in top conferences such as CVPR, ICML and NeurIPS.
+
+        # Highlights
+        ## Accelerated Sampling of Diffusion Models
+        - [AMED-Solver](https://arxiv.org/abs/2312.00094) (CVPR'2024 Highlight)
+        - [SFD](https://arxiv.org/abs/2409.19681) (NeurIPS'2024)
+        - [GITS](https://arxiv.org/abs/2405.11326) (ICML'2024)
+
+
     design:
       columns: '1'
       spacing:
