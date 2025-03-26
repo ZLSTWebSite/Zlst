@@ -72,6 +72,20 @@ sections:
 
         ## Large Language Models for Recommendation System
         - [DLLM2Rec](https://arxiv.org/abs/2405.00338) (Recsys'2024 Oral)
+
+        # Knowledge Distillation
+        
+        Knowledge distillation aims to achieve efficient transfer of knowledge from complex models to lightweight models. The goal is to balance the inference cost and performance of compact models, facilitating the deployment of intelligent models in resource-constrained scenarios such as edge computing and mobile devices.
+
+        # Highlights
+
+        - [HWD](https://ieeexplore.ieee.org/document/10220035) (ICME'2023)
+        - [MMKD](https://arxiv.org/abs/2306.06634) (ICME'2023)
+        - [SemCKD](https://ojs.aaai.org/index.php/AAAI/article/view/16865) (AAAI'2021 )
+        - [OKDDip](https://ojs.aaai.org/index.php/AAAI/article/view/5746) (AAAI'2020)
+
+
+
     design:
       columns: '1'
       spacing:
