@@ -26,7 +26,7 @@ publishDate: '2024-07-11T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['recommendation-systems']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval*'

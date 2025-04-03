@@ -26,7 +26,7 @@ publishDate: '2024-07-23T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['graph-mining']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 IEEE 40th International Conference on Data Engineering (ICDE)*

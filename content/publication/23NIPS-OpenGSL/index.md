@@ -24,7 +24,7 @@ publishDate: '2023-12-10T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['graph-mining']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Advances in Neural Information Processing Systems*
