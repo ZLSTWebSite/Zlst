@@ -29,7 +29,7 @@ interests:
 # 教育经历，按照个⼈实际情况填写
 education:
 	courses:
-		- course: MEng in Big Data Technology and Engineering
+		- course: MEng in Computer Science and Technology
 		  institution: Zhejiang University
 		  year: 2025-now
 		- course: BSc in Information Systems
