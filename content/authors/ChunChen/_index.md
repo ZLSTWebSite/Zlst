@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, Academician of the Chinese Academy of Engineering
+role: 陈纯 院士
 
 weight: 1
 

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: 付冰洋 2022
 
 # Organizations/Affiliations
 organizations:

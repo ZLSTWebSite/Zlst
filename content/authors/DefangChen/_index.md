@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: 陈德仿 博士后
 
 weight: 5
 

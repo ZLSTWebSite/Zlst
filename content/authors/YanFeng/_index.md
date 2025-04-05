@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assoc. Professor
+role: 冯雁 副教授
 
 weight: 2
 
