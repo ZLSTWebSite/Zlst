@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: 陈佳伟 研究员
 
 weight: 4
 

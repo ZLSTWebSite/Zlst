@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Bingyang Fu
+title: Zhe Li
 
 # Full name (for SEO)
-first_name: Bingyang
-last_name: Fu
+first_name: Zhe
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - BingyangFu
+  - ZheLi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 付冰洋 2022
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bingyang Fu is currently a Master student in ZLST, where he is supervised by Prof.Can Wang.
+bio: Zhe Li is currently a Master student in ZLST, supervised by Prof. Can Wang and Prof. Jiawei Chen.
 
 interests:
-  - Influence Maximizaiton
-  - Social Advertising
+  - Recommendation System
+  - Machine Learning
 
 education:
   courses:
     - course: MEng in computer science and Technology
       institution: Zhejiang University
-      year: 2022-now
+      year: 2025-now
     - course: BSc in computer science and Technology
-      institution: Zhejiang University
-      year: 2018-2022
+      institution: University of Electronic Science and Technology of China
+      year: 2021-2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:todobe@zju.edu.cn'
+    link: 'zheli1206@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -53,7 +53,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Todobe
+    link: https://github.com/LzzzzJack
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
   - Master Students
 ---
 
-Bingyang Fu is currently a Master student in ZLST, where he is supervised by Prof.Can Wang.
+Zhe Li is currently a Master student in ZLST, supervised by Prof. Can Wang and Prof. Jiawei Chen.

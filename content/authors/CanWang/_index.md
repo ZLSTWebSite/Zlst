@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: 王灿 教授
 
 weight: 3
 
