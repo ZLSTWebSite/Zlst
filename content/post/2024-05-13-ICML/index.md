@@ -1,6 +1,6 @@
 ---
 title: One papers is accepted on ICML 2024
-date: 2025-01-17
+date: 2025-05-13
 ---
 
 Congratulations to Defang Chen, Zhenyu Zhou and all the collaborators for their papers on ICML 2024.
