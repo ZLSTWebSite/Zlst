@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3701551.3703579,
+author = {Lin, Siyi and Gao, Chongming and Chen, Jiawei and Zhou, Sheng and Hu, Binbin and Feng, Yan and Chen, Chun and Wang, Can},
+title = {How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective},
+year = {2025},
+isbn = {9798400713293},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3701551.3703579},
+doi = {10.1145/3701551.3703579},
+abstract = {Recommendation Systems (RS) are often plagued by popularity bias. When training a recommendation model on a typically long-tailed dataset, the model tends to not only inherit this bias but often exacerbate it, resulting in over-representation of popular items in the recommendation lists. This study conducts comprehensive empirical and theoretical analyses to expose the root causes of this phenomenon, yielding two core insights: 1) Item popularity is memorized in the principal spectrum of the score matrix predicted by the recommendation model; 2) The dimension reduction phenomenon amplifies the relative prominence of the principal spectrum, thereby intensifying the popularity bias. Building on these insights, we propose a novel debiasing strategy that leverages a spectral norm regularizer to penalize the magnitude of the principal singular value. We have developed an efficient algorithm to expedite the calculation of the spectral norm by exploiting the spectral property of the score matrix. Extensive experiments across seven real-world datasets and three testing paradigms have been conducted to validate the superiority of the proposed method.},
+booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+pages = {659–668},
+numpages = {10},
+keywords = {popularity bias, recommender system},
+location = {Hannover, Germany},
+series = {WSDM '25}
+}
