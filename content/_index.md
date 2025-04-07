@@ -125,7 +125,7 @@ sections:
         # Diffusion Models
         Diffusion Models are a class of generative models that have gained significant attention in recent years, particularly in the fields of computer vision and natural language processing. By establishing a mapping from noise distribution to data distribution, Diffusion Models can generate high-quality data such as images, videos, audios and text.
 
-        We are devoted to provide a deeper understanding of the generaion dynamics of Diffusion Models and the acceleration of their sampling processes. Our works have been published in top conferences such as CVPR, ICML and NeurIPS.
+        We are devoted to provide a deeper understanding of the generation dynamics of Diffusion Models and the acceleration of their sampling processes. Our works have been published in top conferences such as CVPR, ICML and NeurIPS.
 
         # Highlights
         ## Accelerated Sampling of Diffusion Models
