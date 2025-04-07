@@ -1,44 +1,43 @@
 ---
-title: 'Simple and Fast Distillation of Diffusion Models'
+title: 'Online Adversarial Knowledge Distillation for Graph Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - ZhenyuZhou
-  - DefangChen
   - CanWang
+  - ZheWang
+  - DefangChen
+  - ShengZhou
+  - YanFeng
   - ChunChen
-  - SiweiLyu
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-09-26T00:00:00Z'
-# doi: ''
+date: '2024-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.eswa.2023.121671'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-12-25T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['diffusion-models', 'knowledge-distillation']
-
-category: ['diffusion-models', 'knowledge-distillation']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Neural Information Processing Systems*
-publication_short: In *NeurIPS 2024*
+publication: In *Expert Systems with Applications*
+publication_short: In *ESA 2024*
 
-abstract: Diffusion-based generative models have demonstrated their powerful performance across various tasks, but this comes at a cost of the slow sampling speed. To achieve both efficient and high-quality synthesis, various distillation-based accelerated sampling methods have been developed recently. However, they generally require time-consuming fine tuning with elaborate designs to achieve satisfactory performance in a specific number of function evaluation (NFE), making them difficult to employ in practice. To address this issue, we propose Simple and Fast Distillation (SFD) of diffusion models, which simplifies the paradigm used in existing methods and largely shortens their fine-tuning time up to 1000×. We begin with a vanilla distillation-based sampling method and boost its performance to state of the art by identifying and addressing several small yet vital factors affecting the synthesis efficiency and quality. Our method can also achieve sampling with variable NFEs using a single distilled model. Extensive experiments demonstrate that SFD strikes a good balance between the sample quality and fine-tuning costs in few-step image generation task. For example, SFD achieves 4.53 FID (NFE=2) on CIFAR-10 with only 0.64 hours of fine-tuning on a single NVIDIA A100 GPU. Our code is available at https://github.com/zju-pi/diff-sampler.
+abstract: Knowledge distillation, a technique recently gaining popularity for enhancing model generalization in Convolutional Neural Networks (CNNs), operates under the assumption that both teacher and student models are trained on identical data distributions. However, its effect on Graph Neural Networks (GNNs) is less than satisfactory since the graph topology and node attributes are prone to evolve, thereby leading to the issue of distribution shift. In this paper, we tackle this challenge by simultaneously training a group of graph neural networks in an online distillation fashion, where the group knowledge plays a role as a dynamic virtual teacher and the structure changes in graph neural networks are effectively captured. To improve the distillation performance, two types of knowledge are transferred among the students to enhance each other, local knowledge reflecting information in the graph topology and node attributes, and global knowledge reflecting the prediction over classes. We transfer the global knowledge with KL-divergence as the vanilla knowledge distillation does, while exploiting the complicated structure of the local knowledge with an efficient adversarial cyclic learning framework. Extensive experiments verified the effectiveness of our proposed online adversarial distillation approach. The code is published at https://github.com/wangz3066/OnlineDistillGCN.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Diffusion Models, Distillation]
+tags: [Knowledge Distillation]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2409.19681'
-url_code: 'https://github.com/zju-pi/diff-sampler'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417423021735'
+url_code: 'https://github.com/wangz3066/OnlineDistillGCN'
 url_dataset: ''
 url_poster: ''
 url_project: ''

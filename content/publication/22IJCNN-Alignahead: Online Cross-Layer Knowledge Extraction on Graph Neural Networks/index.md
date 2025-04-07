@@ -1,41 +1,40 @@
 ---
-title: 'Fast Ode-based Sampling for Diffusion Models in Around 5 Steps'
+title: 'Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - ZhenyuZhou
+  - JiongyuGuo
   - DefangChen
   - CanWang
-  - ChunChen
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-02-27T00:00:00Z'
-# doi: ''
+date: '2022-09-30T00:00:00Z'
+doi: '10.1109/IJCNN55064.2022.9892159'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-17T00:00:00Z'
+publishDate: '2022-09-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['diffusion-models']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*
-publication_short: In *CVPR 2024*
+publication: In *International Joint Conference on Neural Networks*
+publication_short: In *IJCNN 2022*
 
-abstract: Sampling from diffusion models can be treated as solving the corresponding ordinary differential equations (ODEs), with the aim of obtaining an accurate solution with as few number of function evaluations (NFE) as possible. Recently, various fast samplers utilizing higher-order ODE solvers have emerged and achieved better performance than the initial first-order one. However, these numerical methods inherently result in certain approximation errors, which significantly degrades sample quality with extremely small NFE (e.g., around 5). In contrast, based on the geometric observation that each sampling trajectory almost lies in a two-dimensional subspace embedded in the ambient space, we propose Approximate MEan-Direction Solver (AMED-Solver) that eliminates truncation errors by directly learning the mean direction for fast diffusion sampling. Besides, our method can be easily used as a plugin to further improve existing ODE-based samplers. Extensive experiments on image synthesis with the resolution ranging from 32 to 512 demonstrate the effectiveness of our method. With only 5 NFE, we achieve 6.61 FID on CIFAR-10, 10.74 FID on ImageNet 64×64, and 13.20 FID on LSUN Bedroom. Our code is available at https://github.com/zju-pi/diff-sampler.
+abstract: Existing knowledge distillation methods on graph neural networks (GNNs) are almost offline, where the student model extracts knowledge from a powerful teacher model to improve its performance. However, a pre-trained teacher model is not always accessible due to training cost, privacy, etc. In this paper, we propose a novel online knowledge distillation framework to resolve this problem. Specifically, each student GNN model learns the extracted local structure from another simultaneously trained counterpart in an alternating training procedure. We further develop a cross-layer distillation strategy by aligning ahead one student layer with the layer in different depth of another student model, which theoretically makes the structure information spread over all layers. Experimental results on five datasets including PPI, Coauthor-CS/Physics and Amazon-Computer/Photo demonstrate that the student performance is consistently boosted in our collaborative training framework without the supervision of a pre-trained teacher model. In addition, we also find that our alignahead technique can accelerate the model convergence speed and its effectiveness can be generally improved by increasing the student numbers in training. Code is available at https://github.com/GuoJY-eatsTG/Alignahead.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Diffusion Models, Fast Sampling]
+tags: [Knowledge Distillation]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,8 +44,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2312.00094'
-url_code: 'https://github.com/zju-pi/diff-sampler'
+url_pdf: 'https://arxiv.org/abs/2205.02468'
+url_code: 'https://github.com/GuoJY-eatsTG/Alignahead'
 url_dataset: ''
 url_poster: ''
 url_project: ''
