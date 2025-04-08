@@ -23,7 +23,7 @@ publishDate: '2023-08-08T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['graph-mining']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neural Computing and Applications*
