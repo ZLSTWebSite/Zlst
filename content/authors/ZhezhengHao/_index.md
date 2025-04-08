@@ -33,7 +33,7 @@ education:
     - course: PhD in Computer Science and Technology
       institution: Zhejiang University
       year: 2025-now
-	- course: MEng in Computer Science and Technology
+    - course: MEng in Computer Science and Technology
       institution: Northwestern Polytechnical University
       year: 2022-2025
     - course: BSc in Information and Computing Science
@@ -46,8 +46,8 @@ social:
     icon_pack: fas
     link: 'haozhezheng@outlook.com'
   - icon: google-scholar
-  	icon_pack: ai
-	link: https://scholar.google.com/citations?user=edqeUrkAAAAJ&hl=zh-CN&oi=ao
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=edqeUrkAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/zz-haooo
