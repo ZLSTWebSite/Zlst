@@ -9,3 +9,21 @@
 .cta-group {
   justify-content: center;
 }
+
+section#my-hero-style {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+#my-hero-style .hero-title {
+  @extend h1;
+}
+
+#my-hero-style .hero-subtitle {
+  @extend h2;
+}
+
+#my-hero-style .hero-lead {
+  @extend p;
+  font-size: 1rem !important;
+}
