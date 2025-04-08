@@ -57,6 +57,7 @@ user_groups:
   - PhD Students
   
 # 横线下方的部分，为长自我介绍，可以自由发挥。
-Zhezheng Hao is currently a Ph.D. student in ZLST, where he is supervised by Prof. Chun Chen and Prof. Jiawei Chen.
 ---
+
+Zhezheng Hao is currently a Ph.D. student in ZLST, where he is supervised by Prof. Chun Chen and Prof. Jiawei Chen.
 
