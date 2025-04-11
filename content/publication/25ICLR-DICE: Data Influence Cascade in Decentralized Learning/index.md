@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding'
+title: 'DICE: Data Influence Cascade in Decentralized Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,13 +23,13 @@ publishDate: '2025-04-23T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['graph-mining']
+publication_types: ['data-influence']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Proceedings of The Thirteenth International Conference on Learning Representations*'
 publication_short: 'In *ICLR 2025*'
 
-abstract: 'Learning effective representations for Continuous-Time Dynamic Graphs (CTDGs) has garnered significant research interest, largely due to its powerful capabilities in modeling complex interactions between nodes. A fundamental and crucial requirement for representation learning in CTDGs is the appropriate estimation and preservation of proximity. However, due to the sparse and evolving characteristics of CTDGs, the spatial-temporal properties inherent in high-order proximity remain largely unexplored. Despite its importance, this property presents significant challenges due to the computationally intensive nature of personalized interaction intensity estimation and the dynamic attributes of CTDGs. To this end, we propose a novel Correlated Spatial-Temporal Positional encoding that incorporates a parameter-free personalized interaction intensity estimation under the weak assumption of the Poisson Point Process. Building on this, we introduce the Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding (CorDGT), which efficiently retains the evolving spatial-temporal high-order proximity for effective node representation learning in CTDGs. Extensive experiments on seven small and two large-scale datasets demonstrate the superior performance and scalability of the proposed CorDGT. The code is available at: https://github.com/wangz3066/CorDGT.'
+abstract: 'Decentralized learning offers a promising approach to crowdsource data consumptions and computational workloads across geographically distributed compute interconnected through peer-to-peer networks, accommodating the exponentially increasing demands. However, proper incentives are still in absence, considerably discouraging participation. Our vision is that a fair incentive mechanism relies on fair attribution of contributions to participating nodes, which faces non-trivial challenges arising from the localized connections making influence ``cascade'' in a decentralized network. To overcome this, we design the first method to estimate Data Influence CascadE (DICE) in a decentralized environment. Theoretically, the framework derives tractable approximations of influence cascade over arbitrary neighbor hops, suggesting the influence cascade is determined by an interplay of data, communication topology, and the curvature of loss landscape.DICE also lays the foundations for applications including selecting suitable collaborators and identifying malicious behaviors.'
 
 
 # Summary. An optional shortened abstract.
