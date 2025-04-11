@@ -52,7 +52,7 @@ sections:
         
         We are devoted to provide a deeper understanding of the generaion dynamics of Diffusion Models and the acceleration of their sampling processes. 
       image:
-        filename: logo.png
+        filename: logo-diffusion-models.png
       design:
         flip: true
   - block: hero_neo
