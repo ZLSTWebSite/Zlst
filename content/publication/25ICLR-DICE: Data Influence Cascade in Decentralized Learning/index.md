@@ -23,7 +23,7 @@ publishDate: '2025-04-23T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['graph-mining']
+publication_types: ['data-influence']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Proceedings of The Thirteenth International Conference on Learning Representations*'
