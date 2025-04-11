@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding'
+title: 'DICE: Data Influence Cascade in Decentralized Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
