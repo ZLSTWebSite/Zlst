@@ -62,7 +62,7 @@ sections:
       text: |
         Knowledge distillation aims to achieve efficient transfer of knowledge from complex models to lightweight models. The goal is to balance the inference cost and performance of compact models, facilitating the deployment of intelligent models in resource-constrained scenarios such as edge computing and mobile devices.
       image:
-        filename: logo.png
+        filename: logo-kd.jpg
       design:
         flip: true
 
