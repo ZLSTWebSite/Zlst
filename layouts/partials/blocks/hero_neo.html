@@ -6,10 +6,12 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $bg := $block.design.background }}
+{{ $x := $block.content.design.column_size | default 8 }}
+{{ $y := sub 12 $x }}
 
 {{ if $block.content.image.filename }}
 <div class="row">
-  <div class="col-12 col-md-8 text-center text-md-left">
+  <div class="col-12 col-md-{{ $x }} text-center text-md-left">
 {{ end }}
 
     {{ with $block.content.title }}
@@ -67,7 +69,7 @@
   {{/* Hero image */}}
   {{ if $block.content.image.filename }}
   </div>
-  <div class="col-12 mx-auto col-md-4 {{if $block.content.design.flip}}order-md-first{{end}} hero-media">
+  <div class="col-12 mx-auto col-md-{{ $y }} {{if $block.content.design.flip}}order-md-first{{end}} hero-media">
     {{- $image := resources.Get (path.Join "media" $block.content.image.filename) -}}
     
     {{ if $image }}
