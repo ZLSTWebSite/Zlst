@@ -12,9 +12,10 @@ sections:
       text: |
         The ZLST Lab is affiliated with Computer Science, Zhejiang University. The lab is led by Professor Chun Chen, focusing on cutting-edge research in Big Data and Artificial Intelligence, particularly in Recommender Systems, Graph Mining, Diffusion Models, Knowledge Distillation, and Large Language Models, etc. Our team has been honored with five provincial/ministerial-level science and technology awards, and five best paper awards at top international academic conferences. We look forward to contributing to the field of artificial intelligence in the era of large models!
       image:
-        filename: logo.png
+        filename: homepage_background.png
       design:
         flip: true
+        column_size: 7
   - block: hero_neo
     id: my-hero-style
     content:
