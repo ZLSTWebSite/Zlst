@@ -27,7 +27,7 @@ sections:
       text: |
         Recommender systems (RS) are technologies that utilize user behavior and content characteristics to predict user preferences and provide personalized recommendations, serving as core infrastructure for e-commerce and social media platforms. We are devoted to cutting-edge research topics including trustworthy recommendation, sequential recommendation, theoretical foundations of Recommender Systems, and LLM-enhanced recommendation paradigms. 
       image:
-        filename: logo.png
+        filename: recommendation_systems.png
       design:
         flip: true
   - block: hero_neo
