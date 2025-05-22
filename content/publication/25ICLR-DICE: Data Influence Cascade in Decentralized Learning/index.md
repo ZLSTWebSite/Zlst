@@ -5,10 +5,10 @@ title: 'DICE: Data Influence Cascade in Decentralized Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - TongtianZhu
-  - WenhaoLi
-  - CanWang
-  - FengxiangHe
+  - Tongtian Zhu
+  - Wenhao Li
+  - Can Wang
+  - Fengxiang He
 
 # Author notes (optional)
 # author_notes:
