@@ -5,9 +5,11 @@ title: 'DICE: Data Influence Cascade in Decentralized Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Xuelian Jiang
   - Tongtian Zhu
-  - Wenhao Li
+  - Yingxiang Xu
   - Can Wang
+  - Yeyu Zhang
   - Fengxiang He
 
 # Author notes (optional)
@@ -15,27 +17,28 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-04-13T00:00:00Z'
+date: '2025-06-06T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-04-13T00:00:00Z'
+publishDate: '2025-06-06T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['data-influence']
+# publication_types: ['data-influence']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Proceedings of The Thirteenth International Conference on Learning Representations*'
-publication_short: 'In *ICLR 2025*'
+publication: 'In *Transactions on Machine Learning Research*'
+publication_short: 'In *TMLR 2025*'
 
-abstract: 'Decentralized learning offers a promising approach to crowdsource data consumptions and computational workloads across geographically distributed compute interconnected through peer-to-peer networks, accommodating the exponentially increasing demands. However, proper incentives are still in absence, considerably discouraging participation. Our vision is that a fair incentive mechanism relies on fair attribution of contributions to participating nodes, which faces non-trivial challenges arising from the localized connections making influence ``cascade'' in a decentralized network. To overcome this, we design the first method to estimate Data Influence CascadE (DICE) in a decentralized environment. Theoretically, the framework derives tractable approximations of influence cascade over arbitrary neighbor hops, suggesting the influence cascade is determined by an interplay of data, communication topology, and the curvature of loss landscape.DICE also lays the foundations for applications including selecting suitable collaborators and identifying malicious behaviors.'
+abstract: 'This paper employs a novel Lie symmetries-based framework to model the intrinsic symmetries within financial market. Specifically, we introduce {\it Lie symmetry net} (LSN), which characterises the Lie symmetries of the  differential equations (DE) estimating financial market dynamics, such as the Black-Scholes equation.
+To simulate these differential equations in a symmetry-aware manner, LSN incorporates a Lie symmetry risk derived from the conservation laws associated with the Lie symmetry operators of the target differential equations. This risk measures how well the Lie symmetries are realised and guides the training of LSN under the structural risk minimisation framework. Extensive numerical experiments demonstrate that LSN effectively realises the Lie symmetries and achieves an error reduction of more than {\it one order of magnitude} compared to state-of-the-art methods.'
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Decentralized learning, Data Influence]
+tags: [Symmetry, Differential Equations]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,8 +48,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=2TIYkqieKw'
-url_code: 'https://raiden-zhu.github.io/blog/2025/DICE/'
+#  url_pdf: 'https://openreview.net/pdf?id=2TIYkqieKw'
+#  url_code: 'https://raiden-zhu.github.io/blog/2025/DICE/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
