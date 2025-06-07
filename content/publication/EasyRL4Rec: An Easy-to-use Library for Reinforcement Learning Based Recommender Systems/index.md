@@ -1,5 +1,5 @@
 ---
-title: 'How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective'
+title: 'EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
