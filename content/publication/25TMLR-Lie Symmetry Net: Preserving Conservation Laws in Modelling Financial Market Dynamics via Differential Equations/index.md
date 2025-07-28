@@ -1,5 +1,5 @@
 ---
-title: 'DICE: Data Influence Cascade in Decentralized Learning'
+title: 'Lie Symmetry Net: Preserving Conservation Laws in Modelling Financial Market Dynamics via Differential Equations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
