@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year Ph.D. student, and my supervisors are Prof. Chun Chen, Prof. Can Wang, and Prof. Jiawei Chen.
+bio: I am a fourth-year Ph.D. student, and my supervisors are Prof. Chun Chen, Prof. Can Wang, and Prof. Jiawei Chen.
 
 interests:
   - Recommendation System
@@ -70,4 +70,4 @@ user_groups:
   - PhD Students
 ---
 
-I am a third-year Ph.D. student, and my supervisors are Prof. Chun Chen, Prof. Can Wang, and Prof. Jiawei Chen.
+I am a fourth-year Ph.D. student, and my supervisors are Prof. Chun Chen, Prof. Can Wang, and Prof. Jiawei Chen.
