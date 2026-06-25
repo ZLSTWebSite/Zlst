@@ -25,7 +25,6 @@ organizations:
 bio: Tianjian Zhao is currently a Master student in ZLST, supervised by Prof. Can Wang.
 
 interests:
-  - Recommendation System
   - Generative Models
   - Machine Learning
 
