@@ -70,7 +70,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: background2.jpg
+          filename: background1.jpg
           filters:
             brightness: 1
           parallax: false
