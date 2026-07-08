@@ -8,8 +8,9 @@ authors:
   - SiruiChen
   - ShenHan
   - JiaweiChen
+  - BinbinHu
   - ShengZhou
-  - BohaoWang
+  - GangWang
   - YanFeng
   - ChunChen
   - CanWang
@@ -41,7 +42,7 @@ abstract: 'Recommender Systems (RS) aim to generate personalized ranked lists fo
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Sign-aware Recommendation, Graph, Transformer]
+tags: [Recommendation, Transformer, Personalized Ranking]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2503.16927'
+url_pdf: 'https://arxiv.org/pdf/2503.16927'
 url_code: 'https://github.com/StupidThree/Rankformer'
 url_dataset: 'https://github.com/StupidThree/Rankformer'
 url_poster: ''

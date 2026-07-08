@@ -10,6 +10,8 @@ authors:
   - ShengZhou
   - BohaoWang
   - ShenHan
+  - ChanfeiSu
+  - YuqingYuan
   - CanWang
 
 # Author notes (optional)
@@ -48,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2404.11982'
+url_pdf: 'https://arxiv.org/pdf/2404.11982'
 url_code: 'https://github.com/StupidThree/SIGformer'
 url_dataset: 'https://github.com/StupidThree/SIGformer'
 url_poster: ''
